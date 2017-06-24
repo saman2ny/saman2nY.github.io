@@ -1,0 +1,17 @@
+{
+  "name": "an2ny",
+  "version": "1.0.0",
+  "description": "Sam Antony Joseph (an2ny)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "novelsoft",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^6.0.78",
+    "gulp": "^3.9.1",
+    "gulp-bootstrap": "^2.0.3",
+    "gulp-sass": "^3.1.0"
+  }
+}

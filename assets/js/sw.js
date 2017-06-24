@@ -1,0 +1,1 @@
+self.addEventListener("install",function(e){"use strict";console.log("[ServiceWorker] Installed")}),self.addEventListener("activate",function(e){"use strict";console.log("[ServiceWorker] Activated")}),self.addEventListener("fetch",function(e){"use strict";console.log("[ServiceWorker] Fetching",e.request.url)});

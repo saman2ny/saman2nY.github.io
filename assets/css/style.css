@@ -1,0 +1,69 @@
+html {
+    line-height: 1.5;
+    font-family: 'Cutive Mono', monospace;
+    font-weight: 100;
+    color: rgba(0, 0, 0, .87)
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 40px;
+    padding-left: 40px!important
+}
+
+h5 {
+    line-height: 1.5em
+}
+
+a {
+    text-decoration-style: dotted;
+    text-decoration: underline;
+    color: #2d8a17
+}
+
+.third_tag {
+    text-align: justify
+}
+
+ul:not(.browser-default) li {
+    list-style-type: disc;
+    line-height: 2.3em;
+    margin: 0!important
+}
+
+ul {
+    padding-left: 94px!important
+}
+
+.fourth_tag {
+    position: relative;
+    bottom: 20px;
+    font-size: 22px
+}
+
+.twitter {
+    color: #1da1f2
+}
+
+.dribbble {
+    color: #ea4c89
+}
+
+.stackoverflow {
+    color: #F48024
+}
+
+.about-me {
+    background: url(img/shapes1.jpg) center center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #6d6d6d;
+    transform: perspective(2px)
+}
